@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-See the project https://next-js-events-two.vercel.app/
+# See the project https://next-js-events-two.vercel.app/
 
 ## Getting Started
 
